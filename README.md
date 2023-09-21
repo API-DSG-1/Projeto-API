@@ -3,7 +3,7 @@ Documentação do Projeto
 
 Sobre o projeto:
 
-O projeto desenvolvido possui como objetivo A padronização do Scrum, deve ser elabora visando sua aplicação em uma escala empresárial de forma prática. Atendendo exigencias do cliente  
+O projeto desenvolvido possui como objetivo A padronização do Scrum, deve ser elabora visando sua aplicação em uma escala empresárial de forma prática. Atendendo exigencias do cliente......  
 
 
 1. Definid0 a página inicial
