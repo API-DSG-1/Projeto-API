@@ -73,13 +73,13 @@ Para monitorar o andamento das atividades, o Scrum Master criou e manteve um gr�
 
 ## User Stories
 
-Nº	|	QUEM? (EU COMO_____________)	|	O QUE? (QUERO______________)	|	PORQUE? ( PARA_______________)
+Nº	|	QUEM? (EU COMO_____________)	|	O QUE? (QUERO______________)	|	PORQUE? ( PARA_______________) | Nível de Prioriade | O que vamos fazer?
 
 ---	|	---	|	---	|	---
 
-1	|	Cliente	|	Criar um sistema que ofereça de forma simples o método Scrum | 
-2	|	Cliente	|	Compreensão prática, didática e objetiva	|	
-3	|	Cliente	|	Avaliação de Aprendizado	|	
+1	|	Cliente	|	Criar um sistema que ofereça de forma simples o método Scrum | Para que a metodologia seja implementada na empresa de modo eficiente e ágil |
+2	|	Cliente	|	Compreensão prática, didática e objetiva	|	Aprender a por em prática a metodologia implementada |
+3	|	Cliente	|	Avaliação de Aprendizado	|	Compreensão e análise diagnostica de quanto aprendeu |
 
 # Meu Projeto
 <a href="https://www.figma.com/file/lSciviyO60I1VUjzt5eolv/Untitled?type=design&node-id=0-1&mode=design&t=aED36n5W4qIogM8S-0">Protótipo</a> 
