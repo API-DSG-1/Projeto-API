@@ -71,9 +71,12 @@ Para monitorar o andamento das atividades, o Scrum Master criou e manteve um gr�
 <h2>Product Backlog</h2>
 <img src="https://github.com/Api-teste1/img/assets/140432538/36ef15a9-4081-4c00-8391-4b9e594acb27" width="500" height="500">
 
-<h2>User Stories</h2>
+## User Stories
+
 Nº	|	QUEM? (EU COMO_____________)	|	O QUE? (QUERO______________)	|	PORQUE? ( PARA_______________)
+
 ---	|	---	|	---	|	---
+
 1	|	Cliente	|	Criar um sistema que ofereça de forma simples o método Scrum | 
 2	|	Cliente	|	Compreensão prática, didática e objetiva	|	
 3	|	Cliente	|	Avaliação de Aprendizado	|	
