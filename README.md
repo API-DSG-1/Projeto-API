@@ -71,6 +71,8 @@ Para monitorar o andamento das atividades, o Scrum Master criou e manteve um gr√
 <h2>Product Backlog</h2>
 <img src="https://github.com/Api-teste1/img/assets/140432538/36ef15a9-4081-4c00-8391-4b9e594acb27" width="500" height="500">
 
+<h2>User Stories</h2>
+
 # Meu Projeto
 <a href="https://www.figma.com/file/lSciviyO60I1VUjzt5eolv/Untitled?type=design&node-id=0-1&mode=design&t=aED36n5W4qIogM8S-0">Prot√≥tipo</a> 
 <span id="equipe"></span>
