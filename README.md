@@ -72,6 +72,11 @@ Para monitorar o andamento das atividades, o Scrum Master criou e manteve um gr�
 <img src="https://github.com/Api-teste1/img/assets/140432538/36ef15a9-4081-4c00-8391-4b9e594acb27" width="500" height="500">
 
 <h2>User Stories</h2>
+Nº	|	QUEM? (EU COMO_____________)	|	O QUE? (QUERO______________)	|	PORQUE? ( PARA_______________)
+---	|	---	|	---	|	---
+1	|	Cliente	|	Criar um sistema que ofereça de forma simples o método Scrum | 
+2	|	Cliente	|	Compreensão prática, didática e objetiva	|	
+3	|	Cliente	|	Avaliação de Aprendizado	|	
 
 # Meu Projeto
 <a href="https://www.figma.com/file/lSciviyO60I1VUjzt5eolv/Untitled?type=design&node-id=0-1&mode=design&t=aED36n5W4qIogM8S-0">Protótipo</a> 
