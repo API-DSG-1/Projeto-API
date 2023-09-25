@@ -88,10 +88,16 @@ Nº	|	QUEM? (EU COMO_____________)	|	O QUE? (QUERO______________)	|	PORQUE? ( PA
 
 | Função         | Integrantes           |
 | ---------------|-----------------------|
-| Product Owner  | Isaac Souza Santos        |
-| Scrum Master    | Fillipe Pereira Bueno de Almeida           |
-| Dev Team | Tiago Santini Da Silva       |
-| Dev Team | Renan Ming Han       |
-| Dev Team     | Evellin Amorim da Silva       |
-| Dev Team | Marcio Roberto Bueno Júnior         |
-| Dev Team   | Jorge Antônio Signorini Júnior       |
+| Product Owner  | Isaac Souza Santos        |![ GitHub stats](https://github-readme-stats.vercel.app/api?username=&theme=dracula)
+
+| Scrum Master    | Fillipe Pereira Bueno de Almeida           |![ GitHub stats](https://github-readme-stats.vercel.app/api?username=&theme=dracula)
+
+| Dev Team | Tiago Santini Da Silva       |![ GitHub stats](https://github-readme-stats.vercel.app/api?username=&theme=dracula)
+
+| Dev Team | Renan Ming Han       |![MingRenan GitHub stats](https://github-readme-stats.vercel.app/api?username=MingRenan&theme=dracula)
+
+| Dev Team     | Evellin Amorim da Silva       |![ GitHub stats](https://github-readme-stats.vercel.app/api?username=&theme=dracula)
+
+| Dev Team | Marcio Roberto Bueno Júnior         |![ GitHub stats](https://github-readme-stats.vercel.app/api?username=&theme=dracula)
+
+| Dev Team   | Jorge Antônio Signorini Júnior       | ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=&theme=dracula)
