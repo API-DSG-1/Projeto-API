@@ -98,13 +98,13 @@ Nº	|	QUEM? (EU COMO_____________)	|	O QUE? (QUERO______________)	|	PORQUE? ( PA
 
 ## Social
 
-▪️ Isaac Souza Santos
-▪️ Fillipe Pereira Bueno de Almeida
-▪️ Tiago Santini Da Silva
-▪️ Renan Ming Han [![Meu git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MingRenan/MingRenan/blob/main/README.md)
-▪️ Evellin Amorim da Silva
-▪️ Marcio Roberto Bueno Júnior
-▪️ Jorge Antônio Signorini Júnior
+<div>▪️ Isaac Souza Santos</div>
+<div>▪️ Fillipe Pereira Bueno de Almeida</div>
+<div>▪️ Tiago Santini Da Silva</div>
+<div>▪️ Renan Ming Han [![Meu git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MingRenan/MingRenan/blob/main/README.md)</div>
+<div>▪️ Evellin Amorim da Silva</div>
+<div>▪️ Marcio Roberto Bueno Júnior</div>
+<div>▪️ Jorge Antônio Signorini Júnior</div>
 
 
 
