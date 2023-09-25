@@ -13,7 +13,7 @@
     <a href="https://www.figma.com/file/lSciviyO60I1VUjzt5eolv/Untitled?type=design&node-id=0-1&mode=design&t=aED36n5W4qIogM8S-0">Protótipo</a> |
     <a href="#equipe">Equipe</a> |
   
-<h2>Sobre o Projeto:</h2>
+<h2>💡Sobre o Projeto:</h2>
 
 Este projeto tem como principal objetivo a padronização das práticas do Scrum, com foco na sua aplicação prática em um ambiente empresarial. Ele foi desenvolvido para atender às exigências do cliente e visa proporcionar uma abordagem consistente e eficiente para gerenciamento de projetos.
 
