@@ -73,13 +73,52 @@ Para monitorar o andamento das atividades, o Scrum Master criou e manteve um gr�
 
 ## User Stories
 
-Nº	|	QUEM? (EU COMO_____________)	|	O QUE? (QUERO______________)	|	PORQUE? ( PARA_______________) | Nível de Prioriade | O que vamos fazer?
-
----	|	---	|	---	|	---
-
-1	|	Cliente	|	Criar um sistema que ofereça de forma simples o método Scrum | Para que a metodologia seja implementada na empresa de modo eficiente e ágil |
-2	|	Cliente	|	Compreensão prática, didática e objetiva	|	Aprender a por em prática a metodologia implementada |
-3	|	Cliente	|	Avaliação de Aprendizado	|	Compreensão e análise diagnostica de quanto aprendeu |
+<table>
+  <thead>
+    <tr>
+      <th>N°</th>
+      <th>QUEM? (EU COMO_________)</th>
+      <th>O QUE? (QUERO__________)</th>
+      <th>PORQUE? (PARA__________)</th>
+      <th>Nivel de Prioridade    </th>
+      <th>O que vamos fazer?     </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2">1</td>
+      <td rowspan="2">Cliente</td>
+      <td rowspan="2">Criar um sistema que forneça de forma simples o ensino do metodo Scrum</td>
+      <td rowspan="2">Para que a metodologia posse ser implantada na empresa de modo eficiente e agil</td>
+      <td>1</td>
+      <td>*telas de inicio com a divisão de conteudos e questionarios</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td> criar as seguintes telas:<br>1 introdução <br>2 Product Owner <br>3 Scrum Master<br>4 Como aplicar<br>5 Ferrmentas<br>6 Técnicas<br>7 Questionários</td>
+    </tr>
+    <tr>
+      <td rowspan="2">2</td>
+      <td rowspan="2">Cliente</td>
+      <td rowspan="2">Compreensão pratica, didatica e objetiva</td>
+      <td rowspan="2">Aprender a por em prática a metodologia apresentada</td>
+      <td>3</td>
+      <td>Utilizar os métodos de ensino, por imagem, video (Life Draw) dando exemplos claros de utilização e atividades exercidas<br>Procurar banco de imagens e de videos para serem utilizados no projeto)</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Criar paleta e identidade visual que queremos passar para o cliente: Minimalista, objetivo, claro, confiante, pacifico, amigável e acessivel</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Cliente</td>
+      <td>Avaliação de aprendizado</td>
+      <td>Compreensão e análise diagnóstica de quanto aprendeu</td>
+      <td>3</td>
+      <td>Criar perguntas<br>Criar verificação de respostas<br>Criar correção e revisão apontando o tópico que o estudante tem que revisar</td>
+    </tr>
+  </tbody>
+</table>
 
 # Meu Projeto
 <a href="https://www.figma.com/file/lSciviyO60I1VUjzt5eolv/Untitled?type=design&node-id=0-1&mode=design&t=aED36n5W4qIogM8S-0">Protótipo</a> 
