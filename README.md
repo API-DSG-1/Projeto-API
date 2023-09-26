@@ -136,7 +136,7 @@ Para monitorar o andamento das atividades, o Scrum Master criou e manteve um gr�
 | Dev Team   | Jorge Antônio Signorini Júnior       | 
 
 ## Social
-  [![Meu git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MingRenan/MingRenan/blob/main/README.md)
+
   
 <div>▪️ Isaac Souza Santos</div>
 <div>▪️ Fillipe Pereira Bueno de Almeida</div>
