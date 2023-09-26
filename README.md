@@ -120,9 +120,9 @@ Para monitorar o andamento das atividades, o Scrum Master criou e manteve um gr√
   </tbody>
 </table
 
-  ## Paleta de Cores
+<h1> # Paleta de Cores</h1>
   
-  <img>
+  <img src="https://github.com/API-DSG-1/Projeto-API/blob/main/img/Captura%20de%20tela%202023-09-26%20193313.png"> 
 
 # Meu Projeto
 <a href="https://www.figma.com/file/lSciviyO60I1VUjzt5eolv/Untitled?type=design&node-id=0-1&mode=design&t=aED36n5W4qIogM8S-0">Prot√≥tipo</a> 
