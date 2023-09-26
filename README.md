@@ -118,7 +118,11 @@ Para monitorar o andamento das atividades, o Scrum Master criou e manteve um gr�
       <td>Criar perguntas<br>Criar verificação de respostas<br>Criar correção e revisão apontando o tópico que o estudante tem que revisar</td>
     </tr>
   </tbody>
-</table>
+</table
+
+  ## Paleta de Cores
+  
+  <img>
 
 # Meu Projeto
 <a href="https://www.figma.com/file/lSciviyO60I1VUjzt5eolv/Untitled?type=design&node-id=0-1&mode=design&t=aED36n5W4qIogM8S-0">Protótipo</a> 
