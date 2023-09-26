@@ -118,11 +118,10 @@ Para monitorar o andamento das atividades, o Scrum Master criou e manteve um gr�
       <td>Criar perguntas<br>Criar verificação de respostas<br>Criar correção e revisão apontando o tópico que o estudante tem que revisar</td>
     </tr>
   </tbody>
-</table
+</table>
 
-  ## Paleta de Cores
-
-Paleta de cores utilizadas e inseridas no projeto. Segue as cores selecionadas a seguir.
+<h2> Paleta de Cores </h2>
+<p>Paleta de cores utilizadas e inseridas no projeto. Segue as cores selecionadas a seguir:</p>
   
   <p>
   <img src="https://github.com/API-DSG-1/Projeto-API/blob/main/img/Captura%20de%20tela%202023-09-26%20193313.png"> 
