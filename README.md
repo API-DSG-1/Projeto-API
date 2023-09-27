@@ -53,7 +53,7 @@ Este projeto tem como principal objetivo a padronização das práticas do Scrum
 
 
 <h2>Sprint Backlog</h2>
-<img src="https://github.com/API-DSG-1/Projeto-API/assets/140432538/41d47c31-778c-4a1a-8e9f-e1bd7c81e608" >
+<img src="https://github.com/API-DSG-1/Projeto-API/assets/140432538/1c676c7f-0770-4f2c-a03c-776e93730526" >
 
 <span id="burndown"></span>
 
