@@ -129,14 +129,18 @@ Para monitorar o andamento das atividades, o Scrum Master criou e manteve um gr�
 <p>Paleta de cores utilizadas e inseridas no projeto. Segue as cores selecionadas a seguir:</p>
   
   <p>
-  <img src="https://github.com/API-DSG-1/Projeto-API/blob/main/img/Captura%20de%20tela%202023-09-26%20193313.png"> 
+  <img src="https://github.com/API-DSG-1/Projeto-API/blob/main/img/Paleta%20de%20Cores.png"> 
   </p>
 
 # Meu Projeto
 
-<h3>Wereframe/Protótipo</h3>
-<p>Nessa primeira sprint focamos na entrega de um wereframe/protótipo que apresenta-se o objetivo visual do projeto.</p>
-<img src="https://github.com/API-DSG-1/Projeto-API/blob/main/img/Captura%20de%20tela%202023-09-26%20212518.png">
+<h3>Wereframe</h3>
+<p>Idealizamos o projeto, criando uma base a se seguir afim de evoluir a mesma.</p>
+<img src="https://github.com/API-DSG-1/Projeto-API/blob/main/img/Wereframe.png">
+
+<h3>Protótipo</h3>
+<p>Nessa primeira sprint focamos na entrega de um protótipo que apresenta o objetivo visual do projeto.</p>
+<img src="https://github.com/API-DSG-1/Projeto-API/blob/main/img/Prot%C3%B3tipo.png">
 
 ## Equipe
 
