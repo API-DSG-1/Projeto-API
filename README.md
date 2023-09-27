@@ -141,6 +141,9 @@ Para monitorar o andamento das atividades, o Scrum Master criou e manteve um gr�
 <p>Nessa primeira sprint focamos na entrega de um protótipo que apresenta o objetivo visual do projeto.</p>
 <img src="https://github.com/API-DSG-1/Projeto-API/blob/main/img/Prot%C3%B3tipo.png">
 
+<h3>Video do Projeto</h3>
+<a href="https://www.youtube.com/watch?v=46nNDb-p_u4">Video Sprint 1</a>
+
 ## Equipe
 
 | Função         | Integrantes           |
