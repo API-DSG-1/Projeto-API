@@ -10,7 +10,7 @@
     <a href="#backlog">Backlog</a> |
     <a href="#burndown">Burndown</a> |
     <a href="#pbacklog">Product Backlog</a> | 
-    <a href="https://www.figma.com/file/lSciviyO60I1VUjzt5eolv/Untitled?type=design&node-id=0-1&mode=design&t=aED36n5W4qIogM8S-0">Protótipo</a> |
+    <a href="https://www.figma.com/file/lSciviyO60I1VUjzt5eolv/Untitled?type=design&node-id=0-1&mode=design&t=aED36n5W4qIogM8S-0" target="_blank" >Protótipo</a> |
     <a href="#equipe">Equipe</a> |
   
 <h2>💡Sobre o Projeto:</h2>
