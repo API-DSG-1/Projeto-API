@@ -53,7 +53,7 @@ Este projeto tem como principal objetivo a padronização das práticas do Scrum
 
 
 <h2>Sprint Backlog</h2>
-<img src="https://github.com/Api-teste1/img/assets/140432538/1b731eef-e1ce-4062-a475-0f6194d87593" >
+<img src="https://github.com/API-DSG-1/Projeto-API/assets/140432538/41d47c31-778c-4a1a-8e9f-e1bd7c81e608" >
 
 <span id="burndown"></span>
 
@@ -64,8 +64,7 @@ Para monitorar o andamento das atividades, o Scrum Master criou e manteve um gr�
 </p>
 
 <div>
-<img src="https://github.com/Api-teste1/img/assets/140432538/d91605ac-fdd0-4fc2-b5fb-5dd672cb1450">
-">
+<img src="https://github.com/API-DSG-1/Projeto-API/assets/140432538/342c8a20-e1d7-4eda-a26b-64661203bbc5">
 </div>
 <span id="pbacklog"></span>
 <h2>Product Backlog</h2>
