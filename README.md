@@ -133,8 +133,11 @@ Para monitorar o andamento das atividades, o Scrum Master criou e manteve um gr�
   </p>
 
 # Meu Projeto
-<a href="https://www.figma.com/file/lSciviyO60I1VUjzt5eolv/Untitled?type=design&node-id=0-1&mode=design&t=aED36n5W4qIogM8S-0">Protótipo</a> 
-<span id="equipe"></span>
+
+<h3>Wereframe/Protótipo</h3>
+<p>Nessa primeira sprint focamos na entrega de um wereframe/protótipo que apresenta-se o objetivo visual do projeto.</p>
+<img src="https://github.com/API-DSG-1/Projeto-API/blob/main/img/Captura%20de%20tela%202023-09-26%20212518.png">
+
 ## Equipe
 
 | Função         | Integrantes           |
