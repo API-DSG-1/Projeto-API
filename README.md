@@ -150,17 +150,7 @@ Para monitorar o andamento das atividades, o Scrum Master criou e manteve um gr�
 | Dev Team | Marcio Roberto Bueno Júnior <a href="https://github.com/Marcio Roberto Bueno Junior" target="_blank"><img src="img/GIT.png" width=20px height=20px></a>          |
 | Dev Team   | Jorge Antônio Signorini Júnior <a href="https://github.com/JorgeJuniorSignorini" target="_blank"><img src="img/GIT.png" width=20px height=20px></a>        |
 
-## Social
 
-  
-<div>▪️ Isaac Souza Santos</div>
-<div>▪️ Fillipe Pereira Bueno de Almeida</div>
-<div>▪️ Tiago Santini Da Silva</div>
-<div>▪️ Renan Ming Han 
-</div>
-<div>▪️ Evellin Amorim da Silva</div>
-<div>▪️ Marcio Roberto Bueno Júnior</div>
-<div>▪️ Jorge Antônio Signorini Júnior</div>
 
 
 
