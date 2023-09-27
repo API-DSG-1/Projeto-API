@@ -72,7 +72,7 @@ Para monitorar o andamento das atividades, o Scrum Master criou e manteve um grÃ
 <img src="https://github.com/Api-teste1/img/assets/140432538/36ef15a9-4081-4c00-8391-4b9e594acb27" width="500" height="500">
 
 <h2>Daily-S1</h2>
-<img src= "https://github.com/API-DSG-1/Projeto-API/assets/140432538/c4657302-1441-4397-b9a3-7919e3ea341f">
+<img src= "https://github.com/API-DSG-1/Projeto-API/assets/140432538/dcc8da02-dad3-489c-aac0-9d2130f9cb6a">
 
 
 
