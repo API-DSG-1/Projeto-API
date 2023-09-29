@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Api-teste1/img/assets/140432538/2e40abf0-fea0-455b-83ad-c82d45d2e404" width="300" height="300">
+  <img src="img/DSG.png" width="300" height="300">
 </p>
 <h1>DSG - DATA SOLUTIONS GROUP</h1>
  
@@ -127,18 +127,18 @@ Para monitorar o andamento das atividades, o Scrum Master criou e manteve um gr�
 <p>Paleta de cores utilizadas e inseridas no projeto. Segue as cores selecionadas a seguir:</p>
   
   <p>
-  <img src="https://github.com/API-DSG-1/Projeto-API/blob/main/img/Paleta%20de%20Cores.png"> 
+  <img src="img/Paleta de Cores.png"> 
   </p>
 
 # Meu Projeto
 
-<h3>Wereframe</h3>
+<h3>Wireframe</h3>
 <p>Idealizamos o projeto, criando uma base a se seguir afim de evoluir a mesma.</p>
-<img src="https://github.com/API-DSG-1/Projeto-API/blob/main/img/Wereframe.png">
+<img src="img/Wereframe.png">
 
 <h3>Protótipo</h3>
 <p>Nessa primeira sprint focamos na entrega de um protótipo que apresenta o objetivo visual do projeto.</p>
-<img src="https://github.com/API-DSG-1/Projeto-API/blob/main/img/Prot%C3%B3tipo.png">
+<img src="img/Protótipo.png">
 
 <h3>Video do Projeto</h3>
 <a href="https://www.youtube.com/watch?v=46nNDb-p_u4">Video Sprint 1</a>
