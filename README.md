@@ -53,7 +53,7 @@ Este projeto tem como principal objetivo a padronização das práticas do Scrum
 
 
 <h2>Sprint Backlog</h2>
-<img src="https://github.com/API-DSG-1/Projeto-API/assets/140432538/1c676c7f-0770-4f2c-a03c-776e93730526" >
+<img src="img/Sprint Backlog.jpeg" >
 
 <span id="burndown"></span>
 
@@ -64,11 +64,11 @@ Para monitorar o andamento das atividades, o Scrum Master criou e manteve um gr�
 </p>
 
 <div>
-<img src="https://github.com/API-DSG-1/Projeto-API/assets/140432538/342c8a20-e1d7-4eda-a26b-64661203bbc5">
+<img src="img/Gráfico Burndown.jpeg">
 </div>
 <span id="pbacklog"></span>
 <h2>Product Backlog</h2>
-<img src="https://github.com/API-DSG-1/Projeto-API/assets/140432538/122fd5e3-533d-416e-9bc4-71ea6482acc7" width="500" height="500">
+<img src="img/Product Backlog.jpeg" width="500" height="500">
 
 <h2>Daily-S1</h2>
 <img src= "https://github.com/API-DSG-1/Projeto-API/blob/fa8e5985825cba156139189af77ece7d1a7f0dfc/img/daily.PNG">
