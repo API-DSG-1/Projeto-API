@@ -130,13 +130,6 @@ Para monitorar o andamento das atividades, o Scrum Master criou e manteve um gr�
   <img src="img/Paleta de Cores.png"> 
   </p>
 
-## 🚀Ferramentas Utilizadas
-
-[![Meu git](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
-[![Meu git](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]()
-[![Meu git](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
-[![Meu git](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
-
 
 # Meu Projeto
 
@@ -150,6 +143,13 @@ Para monitorar o andamento das atividades, o Scrum Master criou e manteve um gr�
 
 <h3>Video do Projeto</h3>
 <a href="https://www.youtube.com/watch?v=46nNDb-p_u4">Video Sprint 1</a>
+
+## 🚀Ferramentas Utilizadas
+
+[![Meu git](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
+[![Meu git](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]()
+[![Meu git](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![Meu git](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
 
 ## 👩‍💻Equipe
 
