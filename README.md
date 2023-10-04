@@ -39,7 +39,7 @@ Este projeto tem como principal objetivo a padronização das práticas do Scrum
 * Artefatos do Scrum;
 * MVP.
 
-##📚 Requisitos Não Funcionais
+## 📚Requisitos Não Funcionais
 * Documentação no GitHub;
 * Linguagem de programação JavaScript;
 * Linguagem de marcação HTML e estilos CSS;
