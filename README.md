@@ -20,7 +20,7 @@ Este projeto tem como principal objetivo a padronização das práticas do Scrum
 <span id="backlog"></span>
 <h1>Backlog</h1>
 
-## Requisitos Funcionais
+## 📝Requisitos Funcionais
 * Apresentação via GitHub;
 * O sistema web deverá ser intuitivo e não ter poluições de informações, isso deverá ser uma preocupação constante dos desenvolvedores, sugestões de controles serão bem-vindas e bem avaliadas;
 * Criar um sistema de avaliação (Processo, Produto e Conhecimento em disciplina, SM., PO., TD);
@@ -39,7 +39,7 @@ Este projeto tem como principal objetivo a padronização das práticas do Scrum
 * Artefatos do Scrum;
 * MVP.
 
-## Requisitos Não Funcionais
+##📚 Requisitos Não Funcionais
 * Documentação no GitHub;
 * Linguagem de programação JavaScript;
 * Linguagem de marcação HTML e estilos CSS;
@@ -143,7 +143,7 @@ Para monitorar o andamento das atividades, o Scrum Master criou e manteve um gr�
 <h3>Video do Projeto</h3>
 <a href="https://www.youtube.com/watch?v=46nNDb-p_u4">Video Sprint 1</a>
 
-## Equipe
+## 👩‍💻Equipe
 
 | Função         | Integrantes           |
 | ---------------|-----------------------|
