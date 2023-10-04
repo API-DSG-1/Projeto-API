@@ -1,0 +1,11 @@
+body{
+    background-image: url("/img/fundo.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 80% 80%;
+    background-attachment: fixed;
+    }
+div{
+    color: white;
+    font-family: inter;
+}
