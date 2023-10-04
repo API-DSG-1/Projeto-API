@@ -18,7 +18,7 @@
 Este projeto tem como principal objetivo a padronização das práticas do Scrum, com foco na sua aplicação prática em um ambiente empresarial. Ele foi desenvolvido para atender às exigências do cliente e visa proporcionar uma abordagem consistente e eficiente para gerenciamento de projetos.
 
 <span id="backlog"></span>
-<h1>Backlog</h1>
+<h1>⚙️Backlog</h1>
 
 ## 📝Requisitos Funcionais
 * Apresentação via GitHub;
@@ -74,7 +74,7 @@ Para monitorar o andamento das atividades, o Scrum Master criou e manteve um gr�
 <img src= "https://github.com/API-DSG-1/Projeto-API/blob/fa8e5985825cba156139189af77ece7d1a7f0dfc/img/daily.PNG">
 
 
-## User Stories
+##🔔 User Stories
 
 <table>
   <thead>
@@ -129,6 +129,14 @@ Para monitorar o andamento das atividades, o Scrum Master criou e manteve um gr�
   <p>
   <img src="img/Paleta de Cores.png"> 
   </p>
+
+## 🚀Ferramentas Utilizadas
+
+[![Meu git](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
+[![Meu git](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]()
+[![Meu git](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![Meu git](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+
 
 # Meu Projeto
 
