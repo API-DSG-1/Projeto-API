@@ -148,6 +148,17 @@ Para monitorar o andamento das atividades, o Scrum Master criou e manteve um gr�
 <h3>Video do Projeto</h3>
 <a href="https://www.youtube.com/watch?v=46nNDb-p_u4">Video Sprint 1</a>
 
+### exemplo
+
+**Sprint**  | **Entrega** | **Status**         | **Link**
+:---------: | :------:    | :-------:          | :-------:
+01          | 02/04/2023  | ✅  | <a href="https://github.com/ProManage-FatecSJC/pro-manager-documentation/blob/main/entreg%C3%A1veis/sprint1.md">Sprint 1</a> |
+02          | 23/04/2023  | ✅  | <a href="https://github.com/ProManage-FatecSJC/pro-manager-documentation/blob/main/entreg%C3%A1veis/sprint2.md">Sprint 2</a>
+03          | 14/05/2023  | ✅  | <a href="https://github.com/ProManage-FatecSJC/pro-manager-documentation/blob/main/entreg%C3%A1veis/sprint3.md">Sprint 3</a>
+04          | 06/06/2023  | ✅  | <a href="https://github.com/ProManage-FatecSJC/pro-manager-documentation/blob/main/entreg%C3%A1veis/sprint4.md">Sprint 4</a>
+
+
+
 ## 🚀Ferramentas Utilizadas
 
 [![Meu git](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
