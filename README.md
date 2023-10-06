@@ -60,7 +60,9 @@ Este projeto tem como principal objetivo a padronização das práticas do Scrum
 
 **Sprint**  | **Entrega** | **Status**         | **Link**
 :---------: | :------:    | :-------:          | :-------:
-01          | 02/04/2023  | ✅  | <a href="[https://github.com/ProManage-FatecSJC/pro-manager-documentation/blob/main/entreg%C3%A1veis/sprint1.md](https://github.com/API-DSG-1/Projeto API/blob/main/sprint1/sprint1.md">Sprint 1</a> |
+01          | 02/04/2023  | ✅  | <a href=" https://github.com/API-DSG-1/Projeto-API/blob/main/sprint1/sprint1.md ">Sprint 1</a> |
+
+
 02          | 23/04/2023  | ✅  | <a href="https://github.com/ProManage-FatecSJC/pro-manager-documentation/blob/main/entreg%C3%A1veis/sprint2.md">Sprint 2</a>
 03          | 14/05/2023  | ✅  | <a href="https://github.com/ProManage-FatecSJC/pro-manager-documentation/blob/main/entreg%C3%A1veis/sprint3.md">Sprint 3</a>
 04          | 06/06/2023  | ✅  | <a href="https://github.com/ProManage-FatecSJC/pro-manager-documentation/blob/main/entreg%C3%A1veis/sprint4.md">Sprint 4</a>
