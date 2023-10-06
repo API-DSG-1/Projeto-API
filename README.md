@@ -141,6 +141,10 @@ Para monitorar o andamento das atividades, o Scrum Master criou e manteve um gr�
 <p>Nessa primeira sprint focamos na entrega de um protótipo que apresenta o objetivo visual do projeto.</p>
 <img src="img/Protótipo.png">
 
+<h3>Retrospectiva: Sprint 1</h3>
+<p>Retrospectiva da primeira sprint onde alguns pontos foram citados.</p>
+<img  src="img/Retrospectiva Sprint 1.png">
+
 <h3>Video do Projeto</h3>
 <a href="https://www.youtube.com/watch?v=46nNDb-p_u4">Video Sprint 1</a>
 
