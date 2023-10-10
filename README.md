@@ -57,13 +57,12 @@ Este projeto tem como principal objetivo a padronização das práticas do Scrum
 <a href="https://www.youtube.com/watch?v=46nNDb-p_u4">Video Sprint 1</a>
 
 ### exemplo
-
-**Sprint**  | **Entrega** | **Status**         | **Link**
+**Sprint**  | **Inicio / Fim** | **Status**         | **Link**
 :---------: | :------:    | :-------:          | :-------:
-01          | 26/09/2023  | ✅  | <a href="sprint1/sprint1.md">Sprint 1</a>
-02          | 27/10/2023  | ✅  | <a href="README.md">Sprint 2</a>
-03          | 14/05/2023  | ✅  | <a href="README.md">Sprint 3</a>
-04          | 06/06/2023  | ✅  | <a href="README.md">Sprint 4</a>
+01          | 04/09 / 26/09   | ✅                | <a href="sprint1/sprint1.md">Sprint 1</a>
+02          | 02/10 / 27/10   | ✅                | <a href="README.md">Sprint 2</a>
+03          | ----------      | ✅                | <a href="README.md">Sprint 3</a>
+04          | ----------      | ✅                | <a href="README.md">Sprint 4</a>
 
 
 
