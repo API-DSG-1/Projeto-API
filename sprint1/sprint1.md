@@ -144,6 +144,9 @@ Para monitorar o andamento das atividades, o Scrum Master criou e manteve um grÃ
 <h3>Video do Projeto</h3>
 <a href="https://www.youtube.com/watch?v=46nNDb-p_u4">Video Sprint 1</a>
 
+<h3> Retrospectiva Sprint 1</h3>
+<img src="https://github.com/API-DSG-1/Projeto-API/blob/main/img/Retrospectiva%20Sprint%201.png">
+
 ## ðŸš€Ferramentas Utilizadas
 
 [![Meu git](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
