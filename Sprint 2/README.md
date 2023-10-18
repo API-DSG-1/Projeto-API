@@ -19,14 +19,6 @@ Este projeto tem como principal objetivo a padronização das práticas do Scrum
 <span id="backlog"></span> 
 <h1>⚙️Backlog</h1>
 
-## 📈 Burndown
-
-<p>
-Para monitorar o andamento das atividades, o Scrum Master criou e manteve um gráfico de burndown. Esse gráfico ofereceu uma representação visual dos esforços de tempo e do progresso ao longo dos dias da sprint. Os dados indicaram que a equipe trabalhou mais do que o previsto inicialmente.
-</p>
-
-<h2>Daily-S2</h2>
-
 ## 📝Requisitos Funcionais
 * Apresentação via GitHub;
 * O sistema web deverá ser intuitivo e não ter poluições de informações, isso deverá ser uma preocupação constante dos desenvolvedores, sugestões de controles serão bem-vindas e bem avaliadas;
@@ -58,10 +50,16 @@ Para monitorar o andamento das atividades, o Scrum Master criou e manteve um gr�
 * Bootstrap;
 * Figma.
 
-
 <h2>Sprint Backlog</h2>
 <span id="burndown"></span>
 
+## 📈 Burndown
+
+<p>
+Para monitorar o andamento das atividades, o Scrum Master criou e manteve um gráfico de burndown. Esse gráfico ofereceu uma representação visual dos esforços de tempo e do progresso ao longo dos dias da sprint. Os dados indicaram que a equipe trabalhou mais do que o previsto inicialmente.
+</p>
+
+<h2>Daily-S2</h2>
 ## 🚀Ferramentas Utilizadas
 
 [![Meu git](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
