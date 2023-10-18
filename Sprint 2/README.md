@@ -60,6 +60,7 @@ Para monitorar o andamento das atividades, o Scrum Master criou e manteve um grÃ
 </p>
 
 <h2>Daily-S2</h2>
+<img src="https://github.com/API-DSG-1/Projeto-API/blob/main/Sprint%202/img/Daily-S2.png" width="100%" height="300"
 ## ğŸš€Ferramentas Utilizadas
 
 [![Meu git](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
