@@ -95,7 +95,7 @@ Podemos ver que a pricípio tudo ocorreu como planejado até que perto da data d
     <img src="img/home2.png">
   </p>
   <p align="left">
-    <img src="img/introducao2.png">
+    <img src="img/introducao3.png">
   </p>
 </div>
 
