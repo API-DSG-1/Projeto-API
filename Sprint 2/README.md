@@ -84,6 +84,16 @@ Podemos ver que a pricípio tudo ocorreu como planejado até que perto da data d
   <img src="img/KanbanSprint2.png"> 
 </p>
 
+## 🤔Retrospectiva
+
+<p>
+  Aqui temos também a retrospectiva da sprint com tudo que acreditamos que deveria continuar, mudar e começar para melhorar a nossa comunicação e compreensão da equipe de modo geral.
+</p>
+
+<p align="center">
+  <img src="img/RetrospectivaSprint2.png">  
+</p>
+
 ## 🚀Ferramentas Utilizadas
 
 [![Meu git](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
