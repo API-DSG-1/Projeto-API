@@ -58,8 +58,11 @@ Este projeto tem como principal objetivo a padronização das práticas do Scrum
 ## 📈 Burndown
 
 <p>
-Para monitorar o andamento das atividades, o Scrum Master criou e manteve um gráfico de burndown. Esse gráfico ofereceu uma representação visual dos esforços de tempo e do progresso ao longo dos dias da sprint. Os dados indicaram que a equipe trabalhou mais do que o previsto inicialmente.
+Podemos ver que a pricípio tudo ocorreu como planejado até que perto da data de entrega nós infelizmente perdemos um pouco de desempenho com relação a entrega de trabalho mas logo conseguimos recobrar esse atraso e entregamos dentro do prazo.
 </p>
+<img src="img/BurndownSprint2.png">
+
+
 
 <h2>Daily-S2</h2>
 <img src="https://github.com/API-DSG-1/Projeto-API/blob/main/Sprint%202/img/Daily-S2.png" width="100%" height="300"
