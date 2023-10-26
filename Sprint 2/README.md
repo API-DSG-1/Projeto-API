@@ -52,7 +52,9 @@ Este projeto tem como principal objetivo a padronização das práticas do Scrum
 
 <h2>Product Backlog</h2>
 <p>Nessa Sprint definimos alguns dos requisitos funcionais que teriam em nosso site, na sprint em questão implementamos 5 páginas do mesmo utilizado majoritariamente HTML, CSS e BOOTSTRAP.</p>
-<img src="img/ProductBacklogSprint2.png">
+<div align="center">
+<img  src="img/ProductBacklogSprint2.png">
+</div>
 <span id="burndown"></span>
 
 ## 📈 Burndown
@@ -60,7 +62,9 @@ Este projeto tem como principal objetivo a padronização das práticas do Scrum
 <p>
 Podemos ver que a pricípio tudo ocorreu como planejado até que perto da data de entrega nós infelizmente perdemos um pouco de desempenho com relação a entrega de trabalho mas logo conseguimos recobrar esse atraso e entregamos dentro do prazo.
 </p>
+<p align="center">
 <img src="img/BurndownSprint2.png">
+</p>
 
 
 
