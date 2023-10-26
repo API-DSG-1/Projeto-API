@@ -84,6 +84,21 @@ Podemos ver que a pricípio tudo ocorreu como planejado até que perto da data d
   <img src="img/KanbanSprint2.png"> 
 </p>
 
+<h2>
+  Sobre o Projeto 🤓.
+</h2>
+<p>
+  Aqui temos algumas modificações feitas da sprint passada até essa sprint no projeto, podemos observar que a tela Home continua muito parecida com a versão anterior mas se compararmos a página de introdução já conseguimos perceber as mudanças para uma cor mais solida de azul ao invés daquela coloria e a barra de navegação que antes se encontrava no lado esquerdo da página decidimos mudar ela para o topo pois, chegamos na conclusão que estava ocupando muito espaço de tela e seria ruim ao usuário em questão de design e usabilidade além de diminuir a quantidade de topicos agrupando eles em um unico tópico chamado "capitulos" onde seria um botão que quando clicado aparece todos os tópicos do curso em ordem cronológica.
+</p>
+<div>
+  <p align="right">
+    <img src="img/home2.png">
+  </p>
+  <p align="left">
+    <img src="img/introducao2.png">
+  </p>
+</div>
+
 ## 🤔Retrospectiva
 
 <p>
