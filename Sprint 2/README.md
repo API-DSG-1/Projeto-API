@@ -1,7 +1,7 @@
 <p align="center">
   <img src="img/DSG.png" width="300" height="300">
 </p>
-<h1>DSG - DATA SOLUTION GROUP</h1>
+<h1>DSG - DATA SOLUTIONS GROUP</h1>
 
  > Status: Developing ⚠️
 
