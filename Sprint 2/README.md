@@ -77,7 +77,7 @@ Podemos ver que a pricípio tudo ocorreu como planejado até que perto da data d
 ## 📋Kanban da Sprint
 
 <p>
-  Nessa sprint também utilizamos uma ferramenta de controle de andamento da produção do site proporcionado pelo próprio github para que pudessemos dividir as tarefas em "tasks" menores e facilitarmos a compreensão e a visão da equipe com relação ao trabalho a ser entregue. 
+  Nessa sprint também utilizamos uma ferramenta de kanban proporcionado pelo próprio github para que pudessemos dividir as tarefas maiores em "tasks" menores e facilitarmos a compreensão e a visão da equipe com relação ao trabalho a ser entregue. 
 </p>
 
 <p align="center">
