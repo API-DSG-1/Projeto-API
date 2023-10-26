@@ -69,7 +69,21 @@ Podemos ver que a pricípio tudo ocorreu como planejado até que perto da data d
 
 
 <h2>Daily-S2</h2>
-<img src="https://github.com/API-DSG-1/Projeto-API/blob/main/Sprint%202/img/Daily-S2.png" width="100%" height="300"
+<p>
+  Aqui está todas as reuniões feitas nessa sprint junto com a palavra de cada um dos integrantes do que foi feito e o que iriam fazer para que se pudesse controlar de melhor forma o desempenho e acompanhar o progresso do site!.
+</p>
+<img src="https://github.com/API-DSG-1/Projeto-API/blob/main/Sprint%202/img/Daily-S2.png" width="100%" height="300">
+
+## 📋Kanban da Sprint
+
+<p>
+  Aqui nessa sprint também utilizamos uma ferramenta de controle de andamento da produção do site proporcionado pelo próprio github para que pudessemos dividir as tarefas em "tasks" menores e facilitarmos a compreensão e a visão da equipe com relação ao trabalho a ser entregue. 
+</p>
+
+<p align="center">
+  <img src="img/KanbanSprint2.png"> 
+</p>
+
 ## 🚀Ferramentas Utilizadas
 
 [![Meu git](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
@@ -80,6 +94,7 @@ Podemos ver que a pricípio tudo ocorreu como planejado até que perto da data d
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
 
 ## 👩‍💻Equipe
 
