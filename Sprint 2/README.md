@@ -51,7 +51,7 @@ Este projeto tem como principal objetivo a padronização das práticas do Scrum
 * Figma.
 
 <h2>Product Backlog</h2>
-Nessa Sprint definimos alguns dos requisitos funcionais que teriam em nosso site, na sprint em questão implementamos 5 páginas do mesmo utilizado majoritariamente HTML, CSS e BOOTSTRAP.
+<p>Nessa Sprint definimos alguns dos requisitos funcionais que teriam em nosso site, na sprint em questão implementamos 5 páginas do mesmo utilizado majoritariamente HTML, CSS e BOOTSTRAP.</p>
 <img src="img/ProductBacklogSprint2.png">
 <span id="burndown"></span>
 
