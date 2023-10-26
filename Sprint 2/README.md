@@ -50,7 +50,8 @@ Este projeto tem como principal objetivo a padronização das práticas do Scrum
 * Bootstrap;
 * Figma.
 
-<h2>Sprint Backlog</h2>
+<h2>Product Backlog</h2>
+<img src="img/ProductBacklogSprint2.png">
 <span id="burndown"></span>
 
 ## 📈 Burndown
