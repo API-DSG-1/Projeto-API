@@ -72,7 +72,7 @@ Podemos ver que a pricípio tudo ocorreu como planejado até que perto da data d
 <p>
   Aqui está todas as reuniões feitas nessa sprint junto com a palavra de cada um dos integrantes do que foi feito e o que iriam fazer para que se pudesse controlar de melhor forma o desempenho e acompanhar o progresso do projeto.
 </p>
-<img src="Sprint 3/img/Daily-S2.png" width="100%" height="300">
+<img src="img/Daily-S3.png" width="100%" height="300">
 
 ## 📋Kanban da Sprint
 
