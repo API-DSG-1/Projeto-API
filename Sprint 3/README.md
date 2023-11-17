@@ -63,7 +63,7 @@ Este projeto tem como principal objetivo a padronização das práticas do Scrum
 Podemos ver que a pricípio tudo ocorreu como planejado até que perto da data de entrega nós infelizmente perdemos um pouco de desempenho com relação a entrega de trabalho mas logo conseguimos recobrar esse atraso e entregamos dentro do prazo.
 </p>
 <p align="center">
-<img src="img/BurndownSprint2.png">
+<img src="img/BurndownSprint3.png">
 </p>
 
 
