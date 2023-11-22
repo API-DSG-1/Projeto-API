@@ -1,0 +1,68 @@
+body {
+    background-image: url("/Home/img/fundo.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 100% 75%;
+    padding: 0;
+    margin: 0;
+
+  }
+
+  .logo{
+    padding-top: 20px;
+    padding-left: 100px;
+  }  
+  .textos{
+    padding-left: 130px;
+    padding-top: 40px;
+    font-size: 15px;
+  }
+  #lineone{
+    letter-spacing: 4px;
+    font-family: 'Archivo', sans-serif;
+    line-height: 105%;
+    font-size: 15px;
+  }
+
+  #linetwo{
+    font-family: 'Archivo', sans-serif;
+    font-weight: bold;
+  }
+
+  #linethree{
+    font-family: 'Inter', sans-serif;
+    font-size: 13px;
+  }
+    .container{
+        display: flex;
+    }
+    .quadrado{
+        width: 250px;
+        height: 300px;
+        background-color: white;
+        justify-content: center;
+        align-items: center;
+        margin-right: 50px;
+        border-radius: 10px;
+        text-align: center;
+    }
+
+    .img{
+        padding-top: 40px;
+        text-align: center;
+
+    }
+
+    .btn-outline-dark{
+        width: 70%;
+    }
+
+    .text_fig{
+      padding-top: 30px ;
+      font-family: 'Inter', sans-serif;
+      font-size: 13px;
+    }
+    
+    
+  
+    
