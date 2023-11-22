@@ -5,7 +5,7 @@
 
  > Status: Developing ⚠️
 
-<h1 align="center">Sprint 3: 28/10/2023 a 23/11/2023 </h1>
+<h1 align="center">Sprint 3: 30/10/2023 a 22/11/2023 </h1>
 <p align="center">
   <a href="#backlog">Backlog</a> |
   <a href="">Burndow</a> |
