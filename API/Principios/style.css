@@ -1,0 +1,68 @@
+body{
+    background-color: #D9E4C8;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+    background-color: black;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+}
+
+.Logo{
+    padding-left: 20px;
+}
+
+.botoes{
+    font-family: 'Russo One', sans-serif;
+    color: white;
+    text-decoration: none;
+}
+
+.cor_rodape{
+    background-color: black;
+    height: 80px;
+    position: bottom;
+    bottom: 0;
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    padding-top: 20px;
+}
+
+.text_img_centro{
+ text-align: justify;
+ padding-bottom: 250px;
+ font-size: 25px;
+}
+#roleta{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    
+}
+.roboto{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    padding-top: 60px;
+}
+.Amethysta{
+    font-family: 'Amethysta', serif;
+    padding-top: 20px;
+    padding-top: 20px;
+}
+#itensDropdown{
+    background-color: transparent;
+    color: white;
+    border: none;
+    background-color: black;
+}
+#itensDropdown:hover{
+    background-color: black;
+}
+.icones{
+    position: relative;
+    bottom: 3px;
+}
