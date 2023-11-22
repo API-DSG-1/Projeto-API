@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercicios</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h2>Avaliação</h2>
+
+<main>
+    <div class="content">
+        <span class="spnQtd"></span>
+        <span class="question"></span>
+        <div class="answers"></div>
+    </div>
+    <div class="finish">
+        <span></span>
+        <button id="botao">Reiniciar Avalição</button>
+        <button type="button" id="certificado">Pegar certificado</button>
+    </div>
+</main>
+<script>
+    var botaoCertificado = document.getElementById("certificado");
+          botaoCertificado.addEventListener("click", function(){
+        window.location.href = "certificado.html" ;     
+    });     
+</script>
+<script src="script.js" type="module"></script>  
+<a href="" id="voltar">Voltar</a>  
+</body>
+</html>
