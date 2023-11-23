@@ -68,7 +68,7 @@ Podemos ver que a pricípio tudo ocorreu como planejado até que perto da data d
 
 
 
-<h2>Daily-S2</h2>
+<h2>Daily-S3</h2>
 <p>
   Aqui está todas as reuniões feitas nessa sprint junto com a palavra de cada um dos integrantes do que foi feito e o que iriam fazer para que se pudesse controlar de melhor forma o desempenho e acompanhar o progresso do projeto.
 </p>
