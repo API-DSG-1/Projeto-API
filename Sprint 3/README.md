@@ -8,7 +8,7 @@
 <h1 align="center">Sprint 3: 30/10/2023 a 22/11/2023 </h1>
 <p align="center">
   <a href="#backlog">Backlog</a> |
-  <a href="">Burndow</a> |
+  <a href="#burndown">Burndow</a> |
   <a href="">Product Backlog</a> |
   <a href="">Equipe</a> |
   <a href="https://github.com/API-DSG-1/Projeto-API/tree/main/API">Link do Projeto Final
@@ -56,9 +56,8 @@ Este projeto tem como principal objetivo a padronização das práticas do Scrum
 <div align="center">
 <img  src="img/ProductBacklogSprint2.png">
 </div>
-<span id="burndown"></span>
 
-## 📈 Burndown
+ <h2 id=burndown>📈 Burndown</h2>
 
 <p>
 Podemos ver que a pricípio tudo ocorreu como planejado até que perto da data de entrega nós infelizmente perdemos um pouco de desempenho com relação a entrega de trabalho mas logo conseguimos recobrar esse atraso e entregamos dentro do prazo.
