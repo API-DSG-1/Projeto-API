@@ -9,8 +9,8 @@
 <p align="center">
   <a href="#backlog">Backlog</a> |
   <a href="#burndown">Burndow</a> |
-  <a href="">Product Backlog</a> |
-  <a href="">Equipe</a> |
+  <a href="#product">Product Backlog</a> |
+  <a href="#equipe">Equipe</a> |
   <a href="https://github.com/API-DSG-1/Projeto-API/tree/main/API">Link do Projeto Final
 
 <h2>💡Sobre o Projeto:</h2>
@@ -51,7 +51,7 @@ Este projeto tem como principal objetivo a padronização das práticas do Scrum
 * Bootstrap;
 * Figma.
 
-<h2>Product Backlog</h2>
+<h2 id="product">Product Backlog</h2>
 <p>Nessa Sprint definimos alguns dos requisitos funcionais que teriam em nosso site, na sprint em questão implementamos 5 páginas do mesmo utilizado majoritariamente HTML, CSS e BOOTSTRAP.</p>
 <div align="center">
 <img  src="img/ProductBacklogSprint2.png">
@@ -121,7 +121,7 @@ Podemos ver que a pricípio tudo ocorreu como planejado até que perto da data d
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 
-## 👩‍💻Equipe
+<h2 id="equipe">👩‍💻Equipe</h2>
 
 | Função         | Integrantes           |
 | ---------------|-----------------------|
