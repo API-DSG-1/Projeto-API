@@ -10,7 +10,8 @@
   <a href="#backlog">Backlog</a> |
   <a href="">Burndow</a> |
   <a href="">Product Backlog</a> |
-  <a href="">Equipe</a> 
+  <a href="">Equipe</a> |
+  <a href="https://github.com/API-DSG-1/Projeto-API/tree/main/API">Link do Projeto Final
 
 <h2>💡Sobre o Projeto:</h2>
 
