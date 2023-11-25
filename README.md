@@ -61,7 +61,7 @@ Este projeto tem como principal objetivo a padronização das práticas do Scrum
 :---------: | :------:    | :-------:          | :-------:
 01          | 04/09 - 26/09   | ✅                | <a href="sprint1/sprint1.md">Sprint 1</a>
 02          | 02/10 - 27/10   | ✅                | <a href="Sprint 2/README.md">Sprint 2</a>
-03          | ----------      | ✅                | <a href="Sprint 3/README.md">Sprint 3</a>
+03          | 30/10 - 16/11   | ✅                | <a href="Sprint 3/README.md">Sprint 3</a>
 
 
 
